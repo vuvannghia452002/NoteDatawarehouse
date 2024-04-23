@@ -11,3 +11,5 @@ ETL tools
 view thông tin sql + log
 
 Design patern Python oop
+
+dòng chữ chạy, hiệu ứng, thông tin
